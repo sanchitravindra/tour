@@ -1,0 +1,126 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    //Names of the seasons
+
+    <string name="category_Season4">Spring</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_Season3">Rainy</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_Season1">Summer</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_Season">Winter </string>
+
+    <string name="Summer_Destination_1">Hawaii </string>
+
+    <string name="Summer_Destination_2">Dubai </string>
+
+    <string name="Summer_Destination_3">Bora Bora </string>
+
+    <string name="Summer_Destination_4">VirginiaBeach,
+        VA </string>
+
+    <string name="Summer_Destination_5">Amsterdam </string>
+
+    <string name="Summer_Destination_6">Ocean City, MD </string>
+
+    <string name="Spring_destination_1">Yosemite,USA</string>
+
+    <string name="Spring_destination_2">The Netherlands</string>
+
+    <string name="Winter_destination_1">Hallstat,Austria</string>
+
+    <string name="Winter_destination_2">UK</string>
+
+    <string name="Rain_destination_1">India</string>
+
+    <string name="Rain_destination_2">Costa Rica</string>
+
+
+    //Descreptions
+
+    <string name="Paragraph_hawaii">It\'s easy to see why Hawaii has become synonymous with paradise. Just look at these sugary beaches, Technicolor coral reefs and volcanoes beckoning adventurous spirits.
+
+Natural Beauty
+Snapshots of these islands scattered in the cobalt blue Pacific Ocean are heavenly, without the need for any embellishment by tourist brochures. Sunrises and sunsets are so spectacular that they\'re cause for celebration all by themselves, such as atop Haleakalā volcano on Maui. As tropical getaways go, Hawaii couldn\'t be easier or more worth the trip, though be aware that visiting these Polynesian isles isn\'t always cheap. But whether you\'re dreaming of swimming in crystal waterfall pools or lazing on golden-sand beaches, you can find what you\'re looking for here.
+
+Play Outside
+Just as in days of old, life in Hawaii is lived outdoors. Whether it\'s surfing, swimming, fishing or picnicking with the ʻohana (extended family and friends), encounters with nature are infused with the traditional Hawaiian value of aloha ʻaina – love and respect for the land.Go hiking across ancient lava flows and down fluted pali (sea cliffs). Learn to surf, the ancient Hawaiian sport of \'wave sliding,\' and then snorkel or dive with giant manta rays and sea turtles. Kayak to a deserted offshore island or hop aboard a whale-watching cruise. Back on land, ride horseback with paniolo, Hawaii\'s cowboys.
+
+Island Style
+Floating all by itself in the middle of the Pacific, Hawaii proudly maintains its own distinct identity apart from the US mainland. Spam, shave ice, surfing, ukulele and slack key guitar music, hula, pidgin, aloha shirts, 'rubbah slippah' (flip-flops) – these are just some of the touchstones of everyday life, island style. Pretty much everything here feels easygoing, low-key and casual, bursting with genuine aloha and fun. You'll be equally welcome whether you're a globe-trotting surf bum, a beaming couple of fresh-faced honeymooners or a big, multigenerational family with rambunctious kids.
+
+Modern Multiculturalism
+Hawaii is as proud of its multicultural heritage as it is of former US President Barack Obama, who was born in Honolulu on Oʻahu. On these Hawaiian Islands, the descendants of ancient Polynesians, European explorers, American missionaries and Asian plantation immigrants mix and mingle. What's remarkable about contemporary Hawaii is that harmonious multiculturalism is the rule, not the exception. Boisterous arts and cultural festivals keep diverse community traditions alive, from Hawaiian outrigger canoe races to Japanese taiko drumming. Come here to see what the future of the USA could be.</string>
+
+
+    <string name="haleaka">
+No trip to Maui is complete without visiting this national park, containing the mighty volcano that gave rise to East Maui. The volcano\'s floor measures a whopping 7.5 miles wide, 2.5 miles long and 3000ft deep – nearly as large as Manhattan. From its towering rim there are dramatic views of its lunarlike surface. Visit the summit area or the coastal Kipahulu district. The two districts are not connected by road.
+    </string>
+
+
+    <string name="napali">
+        Roadless, pristine and hauntingly beautiful, this 16-mile-long stretch of stark cliffs, white-sand beaches, turquoise coves and gushing waterfalls links the island\'s northern and western shores.
+    </string>
+
+
+    <string name="yoshimite">YOSHEMITE NATIONAL PARK \n
+During April, May and June, travelers can see fields of blooming flowers, fish for rainbow trout or spot herds of bighorn sheep while enjoying warm days and cool evenings in Yosemite National Park. Plus, spring is the best season to visit Yosemite if you love waterfalls. The park’s creeks and rivers start gushing with water as soon as spring’s warm weather melts the winter snow. Even better — the big crowds don’t descend on the park until summer.
+</string>
+
+
+    <string name="netherlands">You’ve seen pictures of those iconic flower fields in the Dutch countryside, but a real-life look at the massive fields is an unforgettable and astonishing experience. The Keukenhof Gardens, open from March to May, are one of the best places to see more than seven million tulips in full, vivid splendor. Another fantastic way to see Holland’s flower fields is to take a bicycle tour along the 19-mile Flower Bulb Route in North Holland. April is the best month to go to the Netherlands if you want to see blooming daffodils, and for the best views of the tulip fields at their peak, visit in May.
+</string>
+
+
+    <string name="austria">Hallstatt, Austria
+No, you’re not looking at a puzzle. This place really exists. Hallstatt is a tiny lakeside village and UNESCO World Heritage Site in Austria, all the more glorious when nearby Salzburg Mountain is blanketed in snow. It is often voted as one of the prettiest villages in the world, and we wouldn’t disagree.
+</string>
+
+
+    <string name="uk">Richmond Park, UK \n
+London’s biggest park is even more beautiful in winter. At 2500 acres, it\'s three times the size of New York’s Central Park, and with wild deer galloping around it feels like you could be lost in the middle of the English countryside. On the few winter days when snow falls in the capital, Richmond Park is the place to be.
+</string>
+
+
+    <string name="estonia">Tallinn, Estonia
+Tallinn’s medieval old town is enchanting throughout the year, but during Estonia’s long winter months it takes on a whole new dimension of wonder. Take a stroll around the fortified Toompea and eventually you’ll end up in Raekoja Plats. Pop into the tiny room beside the Town Hall for a glass of glögi or some homemade soup.
+</string>
+
+
+    <string name="india">INDIA\n
+India’s monsoon season lasts from June through August.
+India has a diverse landscape which means that some regions of the country are experiencing rain, while other areas are not. Some places, like Manali, Parvati Valley, and the mountains if Himachal Pradesh don’t get a downpour until late in the season.
+A region that embraces the showers, Uttarakhand is home to the Valley of the Flowers. The area’s rainfall creates endless meadows and gorgeous flower beds to decorate the Western Himalayas.
+Joining the colorful valley is the Queen of Hills in Uttarakhand.
+Mussoorie features a British hill station that’s almost two centuries old, but the name comes from local vegetation. Mansoor shrubs adorn those hills, along with a wide range of India’s other fauna. The station is especially lovely and peaceful as visitors walk the old streets or visit the Bhatta and Kempty Falls. Home to two palaces, this city is also one of the royal destinations for the elite and aristocratic people in India.
+</string>
+
+
+    <string name="costa">
+        The terrain in Costa Rica varies. From lush mountains to some of the world’s most glorious beaches. Much of Costa Rica is covered in rainforest and the accompanying wet season last half the year, from May to November. Some may even warn to stay away, as showers can range from light and comforting to catastrophic.
+
+Then why visit during this time? Endless green across the island.
+
+The locals know that this season is Costa Rica at its most beautiful.
+
+Wildlife admirers love Tortuguero and its incredible supply of sea turtles. Standing for “turtle place,” Tortuguero is both void of tourists and busiest with turtles during the rainy season. This is the ideal time to get a look at see the tiny hatchlings and their first trip to the sea.
+
+Costa Rica’s wondrous terrain also houses a rich supply of volcanoes. Locals even claim that they’re easier to see after a storm clears up, giving you a good view of sights like the giant Arenal Volcano.
+    </string>
+
+    <string name="winter1">
+        Hallstatt, Austria\n
+No, you’re not looking at a puzzle. This place really exists. Hallstatt is a tiny lakeside village and UNESCO World Heritage Site in Austria, all the more glorious when nearby Salzburg Mountain is blanketed in snow. It is often voted as one of the prettiest villages in the world, and we wouldn’t disagree.
+
+    </string>
+    <string name="todo">TODO</string>
+</resources>
